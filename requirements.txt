@@ -1,0 +1,4 @@
+async-timeout==4.0.2
+DateTime==4.4
+genshin==1.2.1
+Pillow==8.1.2
