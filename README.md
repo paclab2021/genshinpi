@@ -39,7 +39,7 @@ Verify if the SPI interface is enabled, otherwise, the E-Ink screen won't displa
 ```
 sudo raspi-config
 ```
-In the pop-up GUI menu, select **5.Interfacing Options -> P4.SPI -> Yes**
+In the pop-up GUI menu, select **Interfacing Options -> P4.SPI -> Yes**
 
 ## How to use
 
@@ -71,7 +71,7 @@ sudo pip3 install crontab
 After it is installed, you may declare the auto-update time in **crontab**'s configuration file.
 
 ```
-sudo crontab-e
+sudo crontab -e
 ```
 Copy and paste this command to the commented last line:
 
