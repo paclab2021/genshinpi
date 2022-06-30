@@ -30,6 +30,7 @@ git clone https://github.com/paclab2021/genshinpi.git
 ```
 程序下载完成后，需要下载安装运行相关的Python依赖库
 ```
+cd ~/genshinpi/
 sudo pip3 install -r requirements.txt 
 ```
 点亮墨水屏需要打开树莓派的SPI接口，以开启树莓派主板与屏幕的通信协议
@@ -70,7 +71,7 @@ sudo pip3 install crontab
 成功安装**Crontab**后，编辑该程序的自动运行配置文件
 
 ```
-sudo crontab-e
+sudo crontab -e
 ```
 复制该行脚本至配置文件的底行便可实现自动运行。
 
