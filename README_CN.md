@@ -1,8 +1,13 @@
-# GenshinPi- Ver 1.0.0
+# GenshinPi Ver 1.0.0
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 ### [English](README.md)  | 中文
-基于树莓派与电子墨水屏的轻量化原神玩家信息实时显示器
+一款基于树莓派与电子墨水屏的轻量化原神玩家信息实时显示器。不用掏出手机也能看体力、每日任务、探索派遣、突破材料与尘歌壶状态，属实是居家实用的玩家桌面小摆件。
+
 本项目使用的数据接口来自于thesadru等编写的原神玩家信息API (https://github.com/thesadru/genshin.py)
 ，该项目提供了基于python的原神玩家信息API框架，相当实用。
+
+![genshinpi_preview](https://github.com/paclab2021/genshinpi/blob/a91f1e0d4f07402ed77c9d0fd120c3a843680131/IMG_5067%201.JPG)
+
 ## 硬件需求:
 树莓派 Zero W (第1/2代皆可)
 
