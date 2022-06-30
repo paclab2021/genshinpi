@@ -1,7 +1,14 @@
-# genshinpi
+# GenshinPi Ver 1.0.0
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+###  English | [中文](README_CN.md)
+
+
 A lite Genshin player info viewer for Raspberry Pi with E-Ink display
 
 This project shall be credited to thesadru's Genshin Hoyolab API (https://github.com/thesadru/genshin.py) which provided the foundational framework to retrieve players' real-time information in the Genshin game.
+
+![genshinpi_preview](https://github.com/paclab2021/genshinpi/blob/a91f1e0d4f07402ed77c9d0fd120c3a843680131/IMG_5067%201.JPG)
+
 
 ## Hardware requirement:
 Raspberry Pi Zero W (Gen 1/2)
